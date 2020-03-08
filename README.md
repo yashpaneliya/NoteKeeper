@@ -1,6 +1,6 @@
 # notekeeper
 
-A new Flutter application.
+This is a simple note keeper flutter application. It uses SQL database.
 
 ## Getting Started
 
